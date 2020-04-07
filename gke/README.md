@@ -1,4 +1,4 @@
-# terraform-gcp
+# GKE
 
 Launch a Google Kubernetes Engine cluster using Terraform
 
