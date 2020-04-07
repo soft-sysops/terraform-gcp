@@ -2,7 +2,8 @@
 
 Launch a Google Kubernetes Engine cluster using Terraform
 
-## Lanch GKE Cluster
+## Launch GKE Cluster
+
 ---
 $ terraform init
 $ terraform plan
